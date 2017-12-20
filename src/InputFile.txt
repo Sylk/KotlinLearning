@@ -1,0 +1,5 @@
+This is an input file with a lot of text.
+When reading from a file it is important to consider that there may be
+many lines of text.
+Apparently kotlin.io has a lot of tools to deal with files well.
+That's all folks.
